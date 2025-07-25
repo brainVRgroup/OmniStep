@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: RobotTutorialText_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 84d9088a555971e4faefa709840d43b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11728949248
+    m_Localized: Welcome. I will be your guide for this tutorial.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4750787386056704
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4756544206708736
+    m_Localized: Good job.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9814049668505600
+    m_Localized: Now try looking around, find 3 of these eyes and watch them disappear.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9816691312467968
+    m_Localized: Let's explore the controllers now.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48909897618464768
+    m_Localized: Look at the controllers in your hands.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18818127752896512
+    m_Localized: See the highlighted button on the controller? Try pressing it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18820949475106816
+    m_Localized: See the cube on your right? Try to grab it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18925914419929088
+    m_Localized: Well done.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21382925069885440
+    m_Localized: On my right side, there is an eye. If you look at it long enough,
+      it will disappear. Try it out.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24324085220417536
+    m_Localized: Now it's time to get walking.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24348699371806720
+    m_Localized: Amazing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24613520257159168
+    m_Localized: Now go back and grab the cube.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24647051918282752
+    m_Localized: Place the cube in the highlighted spot next to the door.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27123802828480512
+    m_Localized: Great. Now grab back your cube.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27124266047414272
+    m_Localized: Let's go to the next room.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27125648779419648
+    m_Localized: Put the cube down on the table.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27125980460785664
+    m_Localized: Do you see the shapes next to the passage? Find them in this room
+      and place them on the appropriate spots.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29695779326758912
+    m_Localized: See the line coming out of the controller? Try pointing that at
+      the stars in front of you on your right.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29696302926893056
+    m_Localized: Try pressing the highlighted button on the controller while pointing
+      at one of the stars.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29697333207339008
+    m_Localized: Pick the star you like better and press done.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31975969783586816
+    m_Localized: Whenever you are ready, walk towards me and stand in the highlighted
+      spot.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48557942808088576
+    m_Localized: First let's recap the walk technique. For now just watch me.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558219586015232
+    m_Localized: You start by leaning forward.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558371331739648
+    m_Localized: Then you lift your foot and place it in front of you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558473681145856
+    m_Localized: Finally you slide the foot back.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558568644382720
+    m_Localized: Then you repeat the same thing with the other leg.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558750144499712
+    m_Localized: Now it's your turn. Before you start, make sure your thumb is not
+      touching the trackpad on the controller.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48559493702324224
+    m_Localized: Then if you are ready, stand up straight and press the ready button
+      below.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48559641849335808
+    m_Localized: Great. Now lean forward.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48559937073811456
+    m_Localized: Amazing, now do a step.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48911723919089664
+    m_Localized: See the target next to me? Try throwing the cube at it.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48912101645524992
+    m_Localized: Nice.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48928073353830400
+    m_Localized: 'This button allows you to grab objects. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49264072596430848
+    m_Localized: 'All grabable objects will show a yellow outline once your hand
+      is touching them. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49304357946826752
+    m_Localized: Pick up the cube again and place it in the highlighted spot.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49311635022323712
+    m_Localized: Not a bad try. Let me bring it back to you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49673116150702080
+    m_Localized: Now pick up the cube from the ground and place it on the marked
+      space to your right.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49681842786050048
+    m_Localized: Let's try again.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50005463765131264
+    m_Localized: Nice. Follow me to the next room.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50032394288013312
+    m_Localized: See the light at the end? Let's have a race. Pres Start when you
+      are ready.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50032836325711872
+    m_Localized: Maybe you will beat me next time. But good job, you are all ready.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50032908694233088
+    m_Localized: 'Good job, you beat me. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51852523523055616
+    m_Localized: Nice aim. Let me bring the cube back to you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100856874510422016
+    m_Localized: Now one last thing, walk through the door.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100890586975408128
+    m_Localized: Stand in the highlighted spot.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,212 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: RobotTutorialText Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: RobotTutorialText
+  m_TableCollectionNameGuidString: 84d9088a555971e4faefa709840d43b7
+  m_Entries:
+  - m_Id: 11728949248
+    m_Key: robot-welcome
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4750787386056704
+    m_Key: empty
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4756544206708736
+    m_Key: good-job
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9814049668505600
+    m_Key: look-around
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9816691312467968
+    m_Key: exploring-controllers
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18818127752896512
+    m_Key: grip-button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18820949475106816
+    m_Key: grip-cube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18925914419929088
+    m_Key: well-done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21382925069885440
+    m_Key: look-target-explanation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24324085220417536
+    m_Key: first-steps-intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24348699371806720
+    m_Key: first-steps-ever-completed
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24613520257159168
+    m_Key: first-steps-grab-cube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24647051918282752
+    m_Key: first-steps-go-to-door
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27123802828480512
+    m_Key: table-room-entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27124266047414272
+    m_Key: table-room-walk-in
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27125648779419648
+    m_Key: table-room-put-cube-down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27125980460785664
+    m_Key: table-room-two-cubes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29695779326758912
+    m_Key: first-UI-interaction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29696302926893056
+    m_Key: press-UI-button
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29697333207339008
+    m_Key: cube-customization
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31975969783586816
+    m_Key: first-steps-ever
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48557942808088576
+    m_Key: walk-showcase-intro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558219586015232
+    m_Key: walk-showcase-intro-lean
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558371331739648
+    m_Key: walk-showcase-intro-step
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558473681145856
+    m_Key: walk-showcase-intro-slide
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558568644382720
+    m_Key: walk-showcase-intro-other-leg
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558750144499712
+    m_Key: walk-showcase-intro-end
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48559493702324224
+    m_Key: walk-showcase-stand-up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48559641849335808
+    m_Key: walk-showcase-lean
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48559937073811456
+    m_Key: walk-showcase-lean-finished
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48909897618464768
+    m_Key: look-at-hands
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48911723919089664
+    m_Key: throw-cube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48912101645524992
+    m_Key: nice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48928073353830400
+    m_Key: grip-button-explanation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49264072596430848
+    m_Key: grip-outline-explanation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49304357946826752
+    m_Key: grip-cube-to-checkpoint
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49311635022323712
+    m_Key: nice-try
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49673116150702080
+    m_Key: pick-up-cube
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49681842786050048
+    m_Key: try-again
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50005463765131264
+    m_Key: two-cubes-done
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50032394288013312
+    m_Key: lets-race
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50032836325711872
+    m_Key: player-lost
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50032908694233088
+    m_Key: player-won
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51852523523055616
+    m_Key: target-hit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100856874510422016
+    m_Key: walk-through-door
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100890586975408128
+    m_Key: stand-in-highlighted-spot
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8980330610302910466
+  references:
+    version: 2
+    RefIds:
+    - rid: 8980330610302910466
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1712317209492

@@ -1,0 +1,30 @@
+{
+  "entries": [
+    {
+      "key": "good-job",
+      "texts": {
+        "en": {
+          "value": "Good job.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Dobrá práce.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "successful-finish",
+      "texts": {
+        "en": {
+          "value": "You successfully finished the training.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Uspěšně jste splnili trénink.",
+          "regenerate": true
+        }
+      }
+    }
+  ]
+}

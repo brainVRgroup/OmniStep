@@ -1,0 +1,602 @@
+{
+  "entries": [
+    {
+      "key": "robot-welcome",
+      "texts": {
+        "en": {
+          "value": "Welcome. I will be your guide for this tutorial.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Vítejte. Já budu vaším průvodcem tímto tutoriálem.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "empty",
+      "texts": {
+        "en": {
+          "value": " ",
+          "regenerate": true
+        },
+        "cs": {
+          "value": " ",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "good-job",
+      "texts": {
+        "en": {
+          "value": "Good job.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Dobrá práce.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "look-around",
+      "texts": {
+        "en": {
+          "value": "Now try looking around, find 3 of these eyes and watch them disappear.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Nyní se porozhlédněte, najděte 3 takové oči a sledujte je než zmizí.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "exploring-controllers",
+      "texts": {
+        "en": {
+          "value": "Let's explore the controllers now.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Teď si vyzkoušíme ovladače.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "look-at-hands",
+      "texts": {
+        "en": {
+          "value": "Look at the controllers in your hands.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Podívejte se na ovladače ve vašich rukou.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "grip-button",
+      "texts": {
+        "en": {
+          "value": "See the highlighted button on the controller? Try pressing it.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Vidíte vyznačené tlačítko na ovladači? Zkuste ho zmáčknout.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "grip-cube",
+      "texts": {
+        "en": {
+          "value": "See the cube on your right? Try to grab it.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Vidíte kostku po vaší pravici? Zkuste ji zdvihnout.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "well-done",
+      "texts": {
+        "en": {
+          "value": "Well done.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Super.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "look-target-explanation",
+      "texts": {
+        "en": {
+          "value": "On my right side, there is an eye. If you look at it long enough, it will disappear. Try it out.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Po mé pravici je oko. Když na něj upřete pohled, po chvíli zmizí. Zkuste to.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "first-steps-intro",
+      "texts": {
+        "en": {
+          "value": "Now it's time to get walking.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Je na čase si vyzkoušet chůzi.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "first-steps-ever-completed",
+      "texts": {
+        "en": {
+          "value": "Amazing.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Skvělé.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "first-steps-grab-cube",
+      "texts": {
+        "en": {
+          "value": "Now go back and grab the cube.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Nyní běžte zpátky a zdvihněte kostku.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "first-steps-go-to-door",
+      "texts": {
+        "en": {
+          "value": "Place the cube in the highlighted spot next to the door.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Doneste kostku na vyznačené místo vedle dveří.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "table-room-entry",
+      "texts": {
+        "en": {
+          "value": "Great. Now grab back your cube.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Super. Teď si zpátky vezměte vaši kostku.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "table-room-walk-in",
+      "texts": {
+        "en": {
+          "value": "Let's go to the next room.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Pojďme do další místnosti.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "table-room-put-cube-down",
+      "texts": {
+        "en": {
+          "value": "Put the cube down on the table.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Položte kostku na stůl.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "table-room-two-cubes",
+      "texts": {
+        "en": {
+          "value": "Do you see the shapes next to the passage? Find them in this room and place them on the appropriate spots.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Vidíte tvary nad vyznačenými místy vedle průchodu? Najděte je v této místnosti a doneste je na správné místo.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "first-UI-interaction",
+      "texts": {
+        "en": {
+          "value": "See the line coming out of the controller? Try pointing that at the stars in front of you on your right.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Vidíte linku vycházející z ovladače? Zkuste ji nasměrovat na hvězdy před vámi po vaší pravici.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "press-UI-button",
+      "texts": {
+        "en": {
+          "value": "Try pressing the highlighted button on the controller while pointing at one of the stars.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Zkuste stisknout zvýrazněné tlačítko na ovladači když ukazujete na jednu z hvězd.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "cube-customization",
+      "texts": {
+        "en": {
+          "value": "Pick the star you like better and press done.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Zvolte si hvězdu, která se vám líbí více a zmáčkněte tlačítko hotovo.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "first-steps-ever",
+      "texts": {
+        "en": {
+          "value": "Whenever you are ready, walk towards me and stand in the highlighted spot.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Až budete připraveni, rozejděte se ke mně a postavte se na zvýrazněné místo.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "walk-showcase-intro",
+      "texts": {
+        "en": {
+          "value": "First let's recap the walk technique. For now just watch me.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Nejprve si zrekapitulujme techniku chůze. Zatím se jen dívejte na mě.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "walk-showcase-intro-lean",
+      "texts": {
+        "en": {
+          "value": "You start by leaning forward.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Začnete tím, že se předkloníte.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "walk-showcase-intro-step",
+      "texts": {
+        "en": {
+          "value": "Then you lift your foot and place it in front of you",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Pak zvednete nohu a položíte ji před sebe.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "walk-showcase-intro-slide",
+      "texts": {
+        "en": {
+          "value": "Finally you slide the foot back.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Nakonec sešoupnete nohu zpět.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "walk-showcase-intro-other-leg",
+      "texts": {
+        "en": {
+          "value": "Then you repeat the same thing with the other leg.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Poté totéž zopakujete s druhou nohou. ",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "walk-showcase-intro-end",
+      "texts": {
+        "en": {
+          "value": "Now it's your turn. Before you start, make sure your thumb is not touching the trackpad on the controller.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Teď je řada na vás. Než začnete, ujistěte se, že se váš palec nedotýká trackapadu na ovladači.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "walk-showcase-stand-up",
+      "texts": {
+        "en": {
+          "value": "Then if you are ready, stand up straight and press the ready button below.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Pokud jste připraveni, narovnejte se a stiskněte tlačítko níže.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "walk-showcase-lean",
+      "texts": {
+        "en": {
+          "value": "Great. Now lean forward.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Skvělé. Teď se předkloňte.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "walk-showcase-lean-finished",
+      "texts": {
+        "en": {
+          "value": "Amazing, now do a step.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Úžasné, teď udělejte krok.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "throw-cube",
+      "texts": {
+        "en": {
+          "value": "See the target next to me? Try throwing the cube at it.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Vidíte terč vedle mě? Zkuste na něj kostku hodit.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "nice",
+      "texts": {
+        "en": {
+          "value": "Nice.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Super.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "grip-button-explanation",
+      "texts": {
+        "en": {
+          "value": "This button allows you to grab objects. ",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Toto tlačítko vám umožňuje uchopit předměty. ",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "grip-outline-explanation",
+      "texts": {
+        "en": {
+          "value": "All grabable objects will show a yellow outline once your hand is touching them. ",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "U všech uchopitelných předmětů se objeví žlutý obrys, když se jich vaše ruka dotkne. ",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "grip-cube-to-checkpoint",
+      "texts": {
+        "en": {
+          "value": "Pick up the cube again and place it in the highlighted spot.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Kostku opět zvedněte a umístěte ji na zvýrazněné místo.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "nice-try",
+      "texts": {
+        "en": {
+          "value": "Not a bad try. Let me bring it back to you.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Dobrý pokus. Donesu vám ji zpátky.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "pick-up-cube",
+      "texts": {
+        "en": {
+          "value": "Now pick up the cube from the ground and place it on the marked space to your right.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Nyní zvedněte kostku ze země a položte ji na vyznačené místo po vaší pravici.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "try-again",
+      "texts": {
+        "en": {
+          "value": "Let's try again.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Zkuste to znovu. ",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "two-cubes-done",
+      "texts": {
+        "en": {
+          "value": "Nice. Follow me to the next room.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Dobře. Pojďte za mnou do další mistnosti.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "lets-race",
+      "texts": {
+        "en": {
+          "value": "See the light at the end? Let's have a race. Pres Start when you are ready.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Vidíte světlo na konci chodby? Pojďme si zazávodit. Až budete připraveni, odstartujte odpočet.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "player-lost",
+      "texts": {
+        "en": {
+          "value": "Maybe you will beat me next time. But good job, you are all ready.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Možná mě porazíte příště. Ale dobrá práce, nyní jste připraveni. ",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "player-won",
+      "texts": {
+        "en": {
+          "value": "Good job, you beat me. ",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Super, zvládli jste mě porazit. ",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "target-hit",
+      "texts": {
+        "en": {
+          "value": "Nice aim. Let me bring the cube back to you.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Pěkná trefa. Donesu vám kostku zpátky.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "walk-through-door",
+      "texts": {
+        "en": {
+          "value": "Now one last thing, walk through the door.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Nyní poslední úkol, projďete skrz dveře.",
+          "regenerate": true
+        }
+      }
+    },
+    {
+      "key": "stand-in-highlighted-spot",
+      "texts": {
+        "en": {
+          "value": "Stand in the highlighted spot.",
+          "regenerate": true
+        },
+        "cs": {
+          "value": "Stoupněte si na vyznačené misto.",
+          "regenerate": true
+        }
+      }
+    }
+  ]
+}

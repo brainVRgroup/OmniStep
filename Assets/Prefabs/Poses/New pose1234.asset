@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a4d77b9f99e63341a1914a900c31f4a, type: 3}
+  m_Name: New pose1234
+  m_EditorClassIdentifier: 
+  PoseName: New pose
+  leftHandPose:
+    attachPosition: {x: 0, y: 0, z: 0}
+    attachRotation: {x: 0, y: 0, z: 0, w: 1}
+    fingerRotations: []
+  rightHandPose:
+    attachPosition: {x: 0, y: 0, z: 0}
+    attachRotation: {x: 0, y: 0, z: 0, w: 1}
+    fingerRotations: []

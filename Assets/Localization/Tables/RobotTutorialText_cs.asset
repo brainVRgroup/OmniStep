@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: RobotTutorialText_cs
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: cs
+  m_SharedData: {fileID: 11400000, guid: 84d9088a555971e4faefa709840d43b7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 11728949248
+    m_Localized: "V\xEDtejte. J\xE1 budu va\u0161\xEDm pr\u016Fvodcem t\xEDmto tutori\xE1lem."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4750787386056704
+    m_Localized: ' '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4756544206708736
+    m_Localized: "Dobr\xE1 pr\xE1ce."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9814049668505600
+    m_Localized: "Nyn\xED se porozhl\xE9dn\u011Bte, najd\u011Bte 3 takov\xE9 o\u010Di
+      a sledujte je ne\u017E zmiz\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9816691312467968
+    m_Localized: "Te\u010F si vyzkou\u0161\xEDme ovlada\u010De."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48909897618464768
+    m_Localized: "Pod\xEDvejte se na ovlada\u010De ve va\u0161ich rukou."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18818127752896512
+    m_Localized: "Vid\xEDte vyzna\u010Den\xE9 tla\u010D\xEDtko na ovlada\u010Di?
+      Zkuste ho zm\xE1\u010Dknout."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18820949475106816
+    m_Localized: "Vid\xEDte kostku po va\u0161\xED pravici? Zkuste ji zdvihnout."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18925914419929088
+    m_Localized: Super.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 21382925069885440
+    m_Localized: "Po m\xE9 pravici je oko. Kdy\u017E na n\u011Bj up\u0159ete pohled,
+      po chv\xEDli zmiz\xED. Zkuste to."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24324085220417536
+    m_Localized: "Je na \u010Dase si vyzkou\u0161et ch\u016Fzi."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31975969783586816
+    m_Localized: "A\u017E budete p\u0159ipraveni, rozejd\u011Bte se ke mn\u011B a
+      postavte se na zv\xFDrazn\u011Bn\xE9 m\xEDsto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24348699371806720
+    m_Localized: "Skv\u011Bl\xE9."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24613520257159168
+    m_Localized: "Nyn\xED b\u011B\u017Ete zp\xE1tky a zdvihn\u011Bte kostku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24647051918282752
+    m_Localized: "Doneste kostku na vyzna\u010Den\xE9 m\xEDsto vedle dve\u0159\xED."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27123802828480512
+    m_Localized: "Super. Te\u010F si zp\xE1tky vezm\u011Bte va\u0161i kostku."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27124266047414272
+    m_Localized: "Poj\u010Fme do dal\u0161\xED m\xEDstnosti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27125648779419648
+    m_Localized: "Polo\u017Ete kostku na st\u016Fl."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 27125980460785664
+    m_Localized: "Vid\xEDte tvary nad vyzna\u010Den\xFDmi m\xEDsty vedle pr\u016Fchodu?
+      Najd\u011Bte je v t\xE9to m\xEDstnosti a doneste je na spr\xE1vn\xE9 m\xEDsto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29695779326758912
+    m_Localized: "Vid\xEDte linku vych\xE1zej\xEDc\xED z ovlada\u010De? Zkuste ji
+      nasm\u011Brovat na hv\u011Bzdy p\u0159ed v\xE1mi po va\u0161\xED pravici."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29696302926893056
+    m_Localized: "Zkuste stisknout zv\xFDrazn\u011Bn\xE9 tla\u010D\xEDtko na ovlada\u010Di
+      kdy\u017E ukazujete na jednu z hv\u011Bzd."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 29697333207339008
+    m_Localized: "Zvolte si hv\u011Bzdu, kter\xE1 se v\xE1m l\xEDb\xED v\xEDce a
+      zm\xE1\u010Dkn\u011Bte tla\u010D\xEDtko hotovo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48557942808088576
+    m_Localized: "Nejprve si zrekapitulujme techniku ch\u016Fze. Zat\xEDm se jen
+      d\xEDvejte na m\u011B."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558219586015232
+    m_Localized: "Za\u010Dnete t\xEDm, \u017Ee se p\u0159edklon\xEDte."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558371331739648
+    m_Localized: "Pak zvednete nohu a polo\u017E\xEDte ji p\u0159ed sebe."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558473681145856
+    m_Localized: "Nakonec se\u0161oupnete nohu zp\u011Bt."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558568644382720
+    m_Localized: "Pot\xE9 tot\xE9\u017E zopakujete s druhou nohou. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48558750144499712
+    m_Localized: "Te\u010F je \u0159ada na v\xE1s. Ne\u017E za\u010Dnete, ujist\u011Bte
+      se, \u017Ee se v\xE1\u0161 palec nedot\xFDk\xE1 trackapadu na ovlada\u010Di."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48559493702324224
+    m_Localized: "Pokud jste p\u0159ipraveni, narovnejte se a stiskn\u011Bte tla\u010D\xEDtko
+      n\xED\u017Ee."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48559641849335808
+    m_Localized: "Skv\u011Bl\xE9. Te\u010F se p\u0159edklo\u0148te."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48559937073811456
+    m_Localized: "\xDA\u017Easn\xE9, te\u010F ud\u011Blejte krok."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48911723919089664
+    m_Localized: "Vid\xEDte ter\u010D vedle m\u011B? Zkuste na n\u011Bj kostku hodit."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48912101645524992
+    m_Localized: Super.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 48928073353830400
+    m_Localized: "Toto tla\u010D\xEDtko v\xE1m umo\u017E\u0148uje uchopit p\u0159edm\u011Bty. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49264072596430848
+    m_Localized: "U v\u0161ech uchopiteln\xFDch p\u0159edm\u011Bt\u016F se objev\xED
+      \u017Elut\xFD obrys, kdy\u017E se jich va\u0161e ruka dotkne. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49304357946826752
+    m_Localized: "Kostku op\u011Bt zvedn\u011Bte a um\xEDst\u011Bte ji na zv\xFDrazn\u011Bn\xE9
+      m\xEDsto."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49311635022323712
+    m_Localized: "Dobr\xFD pokus. Donesu v\xE1m ji zp\xE1tky."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49673116150702080
+    m_Localized: "Nyn\xED zvedn\u011Bte kostku ze zem\u011B a polo\u017Ete ji na
+      vyzna\u010Den\xE9 m\xEDsto po va\u0161\xED pravici."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 49681842786050048
+    m_Localized: 'Zkuste to znovu. '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50005463765131264
+    m_Localized: "Dob\u0159e. Poj\u010Fte za mnou do dal\u0161\xED mistnosti."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50032394288013312
+    m_Localized: "Vid\xEDte sv\u011Btlo na konci chodby? Poj\u010Fme si zaz\xE1vodit.
+      A\u017E budete p\u0159ipraveni, odstartujte odpo\u010Det."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50032836325711872
+    m_Localized: "Mo\u017En\xE1 m\u011B poraz\xEDte p\u0159\xED\u0161t\u011B. Ale
+      dobr\xE1 pr\xE1ce, nyn\xED jste p\u0159ipraveni. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 50032908694233088
+    m_Localized: "Super, zvl\xE1dli jste m\u011B porazit. "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51852523523055616
+    m_Localized: "P\u011Bkn\xE1 trefa. Donesu v\xE1m kostku zp\xE1tky."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100856874510422016
+    m_Localized: "Nyn\xED posledn\xED \xFAkol, proj\u010Fete skrz dve\u0159e."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 100890586975408128
+    m_Localized: "Stoupn\u011Bte si na vyzna\u010Den\xE9 misto."
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Asset-Tables-Czech (cs)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Asset-Tables-Czech (cs)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: eab39783e2bf8a7479d51c4aab283e92
+  m_SerializeEntries:
+  - m_GUID: fdcd6c9bc0021dd4f8341311e0365cf7
+    m_Address: RobotTutorialAudio_cs
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-cs
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e91b6935b2cd9b4e9a027312881fe13
+    m_Address: RobotTvAudio_cs
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-cs
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 157920b81ecc3b145aa6edd8fb7019de, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b946a0f14ad60db4abbb21b4a62fdd95, type: 2}
+    - {fileID: 11400000, guid: cce0ffa2a1b81a84b93f4b2946fdb13e, type: 2}

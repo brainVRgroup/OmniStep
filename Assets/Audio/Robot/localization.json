@@ -1,0 +1,303 @@
+{
+  "entries": [
+    {
+      "key": "robot-welcome",
+      "texts": {
+        "en": {
+          "value": "Welcome. I will be your guide for this tutorial.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Vítej. Já budu tvým průvodcem tímto tutoriálem.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "empty",
+      "texts": {
+        "en": {
+          "value": " ",
+          "regenerate": false
+        },
+        "cs": {
+          "value": " ",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "good-job",
+      "texts": {
+        "en": {
+          "value": "Good job.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Dobrá práce.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "look-around",
+      "texts": {
+        "en": {
+          "value": "Now try looking around and find 3 of these targets.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Nyní se porozhlédněte a zkuste najít 3 takové terče.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "exploring-controllers",
+      "texts": {
+        "en": {
+          "value": "Let's explore the controllers now.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Teď si vyzkoušíme ovladače.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "controller-model",
+      "texts": {
+        "en": {
+          "value": "This is a model of the controller in your hand. ",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Tohle je model kontroleru, který máte v ruce.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "grip-button",
+      "texts": {
+        "en": {
+          "value": "Look at your controller and try pressing grab button.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Podívejte se na ovladač ve vaší ruce a stiskněte tlačítko pro uchopení.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "grip-cube",
+      "texts": {
+        "en": {
+          "value": "Now try grabbing this cube using the button and place it in the highlighted spot.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Nyní zkuste uchopit tuto kostku a položit jí na vyznačené místo.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "well-done",
+      "texts": {
+        "en": {
+          "value": "Well done.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Super.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "look-target-explanation",
+      "texts": {
+        "en": {
+          "value": "This is an eye target. If you look at it long enough, it will disappear. Try it out.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Tohle je terč. Když na něj upřete pohled, po chvíli zmizí. Zkuste to.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "tutorial-video-available",
+      "texts": {
+        "en": {
+          "value": "Here is the tutorial video if you need to refresh your memory.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Zde je výukové video, pokud si potřebujete osvěžit paměť.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "first-steps-intro",
+      "texts": {
+        "en": {
+          "value": "Now it's time to get walking.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Je na čase si vyzkoušet chůzi.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "first-steps-ever-completed",
+      "texts": {
+        "en": {
+          "value": "Amazing.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Skvělé.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "first-steps-grab-cube",
+      "texts": {
+        "en": {
+          "value": "Now go back and grab the cube.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Nyní běžte zpátky a zdvihněte kostku.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "first-steps-go-to-door",
+      "texts": {
+        "en": {
+          "value": "Place the cube in the highlighted spod next to the door.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Doneste kostku na vyznačené místo vedle dveří.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "table-room-entry",
+      "texts": {
+        "en": {
+          "value": "Great. Now grab back your cube.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Super. Teď si zpátky vezměte vaši kostku.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "table-room-walk-in",
+      "texts": {
+        "en": {
+          "value": "Let's go to the next room.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Pojďme do další místnosti.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "table-room-put-cube-down",
+      "texts": {
+        "en": {
+          "value": "Put the cube down on the table.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Položte kostku na stůl.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "table-room-two-cubes",
+      "texts": {
+        "en": {
+          "value": "Here are two basic cubes. Go place them in the highlighted spots in the corners.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Zde jsou dvě běžné kostky. Umístěte je na zvýrazněná místa v rozích.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "first-UI-interaction",
+      "texts": {
+        "en": {
+          "value": "See the line coming out of the controller? Try pointing that at these buttons.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Vidíte linku vycházející z ovladače? Zkuste ji nasměrovat na tato tlačítka.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "press-UI-button",
+      "texts": {
+        "en": {
+          "value": "Try pressing the highlighted button on the controller while pointing at one of the buttons.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Zkuste stisknout zvýrazněné tlačítko na ovladači když ukázujete na jedno z tlačítek.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "cube-customization",
+      "texts": {
+        "en": {
+          "value": "Try picking the other option. Pick the one you like better and press done.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Try picking the other option. Pick the one you like better and press done.",
+          "regenerate": false
+        }
+      }
+    },
+    {
+      "key": "first-steps-ever",
+      "texts": {
+        "en": {
+          "value": "Whenever you are ready, follow me and stand in the highlighted spot.",
+          "regenerate": false
+        },
+        "cs": {
+          "value": "Až budete připraveni, následujte mě a postavte se na zvýrazněné místo.",
+          "regenerate": false
+        }
+      }
+    }
+  ]
+}

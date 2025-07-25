@@ -1,0 +1,505 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4d0a589c06a3aa04783e4ce71b71a2b8
+  m_SerializeEntries:
+  - m_GUID: ef37d2fbb4a12784d8261b5dc46e8ca9
+    m_Address: good-job
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 618de22712f2f6c439e097d0111bc724
+    m_Address: good-job
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e88568ba4e02a254b936f38917dbc049
+    m_Address: successful-finish
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdf4bf92c96babe48ba870d5c6f883da
+    m_Address: successful-finish
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9277d82f1320e74b8a92a17dada1f7f
+    m_Address: robot-welcome
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 486257abbb6d0d841bde4504c26ed26c
+    m_Address: robot-welcome
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 20a233d5645bc7c49abe621a32a0c2eb
+    m_Address: empty
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e6e3733ab328014ab1abf748f71081a
+    m_Address: empty
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d35bce1d11982c046a3583ebb9a91af5
+    m_Address: good-job
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2398497feb5f6c944bab043d90282ced
+    m_Address: good-job
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee4c8d600bef0b643b04a19edba0c4cf
+    m_Address: look-around
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 60be056ab2a680144b1b662a679fe489
+    m_Address: look-around
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f965d2b262c897142adc508f79098902
+    m_Address: exploring-controllers
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7acfadb91f269b741ba67a24f065d1ea
+    m_Address: exploring-controllers
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c9e92840c84fb4b40bab736aa494c1a6
+    m_Address: look-at-hands
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16c9c7ab91d5b8744b0f213301d71ca0
+    m_Address: look-at-hands
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 45792c26a32630e44957d7306a328140
+    m_Address: grip-button
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 14072bdb3933f904a8ef491d995d8959
+    m_Address: grip-button
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7487acbbc27f320459cdc024dc753730
+    m_Address: grip-cube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b3b3a57f7fcb0d47b7cb6d987e11b27
+    m_Address: grip-cube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b894dd64adfa504984222b362583554
+    m_Address: well-done
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 76b59840f2a66314b9cb98abcfb1337b
+    m_Address: well-done
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95cffffe165762a438c9d83cb888e371
+    m_Address: look-target-explanation
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79b5c9a76a4f5e74890c1ed1273ac122
+    m_Address: look-target-explanation
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8cbc83c783b95d444887e2567a49e57c
+    m_Address: first-steps-intro
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e459e2fe6701d343ae7a66b672999e6
+    m_Address: first-steps-intro
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 568b7490295ae3c47a1ec7fc34f83125
+    m_Address: first-steps-ever-completed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6286937c06966724d9b5c335c48236a3
+    m_Address: first-steps-ever-completed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95b8ef9664bbe1b45a8dadd2613d31b7
+    m_Address: first-steps-grab-cube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04f8c38bc4f7ed84ebb5cd3c39e83549
+    m_Address: first-steps-grab-cube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5fd1d94c85df967469e9110df36f476f
+    m_Address: first-steps-go-to-door
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf3e1a91e4353aa43be18638720cc7ea
+    m_Address: first-steps-go-to-door
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 151b00bdc97ae0e4ab23cff439507815
+    m_Address: table-room-entry
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ea906aaf08e33b4098c28ed32701fba
+    m_Address: table-room-entry
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e62a934f755e11b4c87432bde761ba56
+    m_Address: table-room-walk-in
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 060aeb07d69d9ed46a338a7d247d15a4
+    m_Address: table-room-walk-in
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d73ae34a5ef698a429b4cc5e96d97131
+    m_Address: table-room-put-cube-down
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22d8a630d9a71a34ebed75109cefa6b6
+    m_Address: table-room-put-cube-down
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0c9c951ba5385c42992df7e6cc83584
+    m_Address: table-room-two-cubes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a580ca1b7a113184aa839d91f6edeafa
+    m_Address: table-room-two-cubes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01b099fd6793e2e4b9d4ee815104a5e6
+    m_Address: first-UI-interaction
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77d93335a82e32c428329912ce4619f4
+    m_Address: first-UI-interaction
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5da1630e55f525c4e824d232a3dfc1a6
+    m_Address: press-UI-button
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8785cb10d5cfc244aa7986be6c65d65
+    m_Address: press-UI-button
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0be862d44b99a347a6bfe0f13146bde
+    m_Address: cube-customization
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 13a8a1169b65952489db3a67a9770fe0
+    m_Address: cube-customization
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e78b9db76980f640be346f08b87642c
+    m_Address: first-steps-ever
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80f38bd07eb1b394ca4409530a301bfe
+    m_Address: first-steps-ever
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd92c3f53174d0840b943094e5319579
+    m_Address: walk-showcase-intro
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 670eba1ea9f8a4b4f9db2eefc31bd237
+    m_Address: walk-showcase-intro
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 59dbec1b2b415a746b8833e6ee01bc63
+    m_Address: walk-showcase-intro-lean
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 08d2c0719fc8d55468931213413c6fa2
+    m_Address: walk-showcase-intro-lean
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9a25202a6bfb824ba34a7c6203bf563
+    m_Address: walk-showcase-intro-step
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4592670b67c22134c8b4d662d35c6506
+    m_Address: walk-showcase-intro-step
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ada6c3a4c5ce37641961ed528a8bd3fb
+    m_Address: walk-showcase-intro-slide
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5f5b184295accb14fab239e40725e98e
+    m_Address: walk-showcase-intro-slide
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fa031cbf3d3f14418355f15c091d5f4
+    m_Address: walk-showcase-intro-other-leg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 451ad85b377a09b4e842b13572c8692e
+    m_Address: walk-showcase-intro-other-leg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1115eac8faeb0954aa9f5beb6ddfe5b1
+    m_Address: walk-showcase-intro-end
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0825e6a38da1d4c45a0f05a53e935c44
+    m_Address: walk-showcase-intro-end
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95cb63163077f344e85ebeb2d905c30d
+    m_Address: walk-showcase-stand-up
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e7974be09de470469879cba36912eea
+    m_Address: walk-showcase-stand-up
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8bc5dca189320084ca648dc1f3a33b3d
+    m_Address: walk-showcase-lean
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82b554cb9aed2a24380c8fd1ba611f2c
+    m_Address: walk-showcase-lean
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4d396456db4e13643963123e0df39271
+    m_Address: walk-showcase-lean-finished
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42a8745eb009d874b93b7e82a324810d
+    m_Address: walk-showcase-lean-finished
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d3c347e00b44f39448d03059a31b5bf7
+    m_Address: throw-cube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8565bf39e91700f47aab9b16d661a33a
+    m_Address: throw-cube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8df45714141aaeb4598a73a34a7063e8
+    m_Address: nice
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8d63d81f2148b7341a66b873155a81f3
+    m_Address: nice
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e280b5ad53400d45b9330c538160e4c
+    m_Address: grip-button-explanation
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a40ed703f30602b43bbbac0be8073100
+    m_Address: grip-button-explanation
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a93c99beff95ff04c835a5077fa803c3
+    m_Address: grip-outline-explanation
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 72384ae45661c084d954183f5c275e07
+    m_Address: grip-outline-explanation
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 01af0d0bbe9437c4aa4e3a5856d44a59
+    m_Address: grip-cube-to-checkpoint
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 79f03e86e0f1017408fb2d039d46fa4b
+    m_Address: grip-cube-to-checkpoint
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a2bd62d0a42818a479a663de056afb9e
+    m_Address: nice-try
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c96e5988a7e56248bb087f7a1a9adbe
+    m_Address: nice-try
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5adbc8ec960011343a20bac79211b905
+    m_Address: pick-up-cube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f52edabb1f782284087531cded2a83f3
+    m_Address: pick-up-cube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 92abc6abf53e7534380d11015d2072fa
+    m_Address: two-cubes-done
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc98f9beab123544797c18dd0ca7ad87
+    m_Address: two-cubes-done
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 47d20fe3aafeb3a478e4e2f7e7e9c77a
+    m_Address: lets-race
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9a6ff9af62896743a12eb894274c9d5
+    m_Address: lets-race
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a99d654b447030b4e944d6bca0a1b45f
+    m_Address: player-lost
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba6657d8b1cd9e84fb46219a8d64101e
+    m_Address: player-lost
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e129147a95a77f049b60feede7156545
+    m_Address: player-won
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e142ab30967ea14ea0741256bc67fb3
+    m_Address: player-won
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2e3d6a2fdfb69684ba0dea6b992dc330
+    m_Address: target-hit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7e316850eb53f8c46bbf18984d483ba2
+    m_Address: target-hit
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6decd2d46f7bd98468554945b4c82ae8
+    m_Address: try-again
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e948889ceee99e4e8858a284041d6a0
+    m_Address: try-again
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b44f03d24816f5f49988eb0a76f58ac5
+    m_Address: walk-through-door
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9fffb8de43ea084e87ff74ca7d990b3
+    m_Address: walk-through-door
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac729e46ea3e78849865dc96fef710fd
+    m_Address: stand-in-highlighted-spot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a95ea8b409f2114abebffa931bfcad2
+    m_Address: stand-in-highlighted-spot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 157920b81ecc3b145aa6edd8fb7019de, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 697501024cf03f24d95666d1ede5963e, type: 2}
+    - {fileID: 11400000, guid: 2a5507819b095c645bd688ade928849f, type: 2}

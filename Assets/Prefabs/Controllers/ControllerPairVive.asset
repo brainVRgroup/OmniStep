@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7f3ae61e243dd74bb4c767c9d8f0b7c, type: 3}
+  m_Name: ControllerPairVive
+  m_EditorClassIdentifier: 
+  HeadsetType: 2
+  rightController: {fileID: -9136863700776110181, guid: 118f81cb844c8954d9cadec28220c88e, type: 3}
+  leftController: {fileID: -9136863700776110181, guid: 1f872f92d0a2fdc4db0684c57f27e865, type: 3}
