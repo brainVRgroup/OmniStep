@@ -14,5 +14,5 @@ This repository contains:
 - the application Unity project;
 - build of the "OmniStep_2.0" version of the application;
 - document "OmniStep 2.0 Developer documentation.pdf";
-- document "OmniStep 2.0 How to launch with KAT Gateway 2.4.2 beta.pdf"; and
+- document "OmniStep 2.0 How to launch with KAT Gateway 2.4.2.pdf"; and
 - document "OmniStep 2.0 How to launch with KAT Industry 2.0.8.pdf".
