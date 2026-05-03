@@ -1,5 +1,5 @@
 # OmniStep
-Immersive VR omnidirectional treadmill tutorial application for standardized onboarding of research participants
+Immersive VR omnidirectional treadmill tutorial application for onboarding of research participants
 
 ## Authors:
 - Eliška Suchardová ([eliska.suchardova@gmail.com](mailto:eliska.suchardova@gmail.com))
