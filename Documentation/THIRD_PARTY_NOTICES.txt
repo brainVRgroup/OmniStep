@@ -1,0 +1,114 @@
+OmniStep — Third-Party Notices
+==============================
+
+This file lists the third-party assets redistributed with the OmniStep
+binary that require their license text to accompany the distribution.
+A full list of third-party materials (including those whose license does
+not require this notice) is given in the project README.
+
+
+================================================================================
+1) Vive 1.5 controller render model ("vr_controller_vive_1_5")
+   © Valve Corporation
+   Distributed via:
+     https://github.com/ValveSoftware/openvr
+     https://github.com/ValveSoftware/steamvr_unity_plugin
+   License: BSD 3-Clause
+================================================================================
+
+Copyright (c) 2015, Valve Corporation
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification,
+are permitted provided that the following conditions are met:
+
+1. Redistributions of source code must retain the above copyright notice, this
+list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above copyright notice,
+this list of conditions and the following disclaimer in the documentation and/or
+other materials provided with the distribution.
+
+3. Neither the name of the copyright holder nor the names of its contributors
+may be used to endorse or promote products derived from this software without
+specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR
+ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+(INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON
+ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+================================================================================
+2) Meta Quest Hardware Art (controller models and line-art)
+   © Meta Platforms, Inc.
+   Distributed via:
+     https://developers.meta.com/horizon/downloads/package/oculus-controller-art/
+   License: Oculus / Meta Art Attribution License
+================================================================================
+
+You may use these images solely for referring to the corresponding product
+in your video game or VR experience (including manuals for users).
+Otherwise, you may not use these images, or any Oculus trademarks, logos
+or other intellectual property, including but not limited to use on
+merchandise or other product such as clothing, hats, or mugs. Do not use
+the Oculus images in a way that implies a partnership, sponsorship or
+endorsement; or features Oculus on materials associated with pornography,
+illegal activities, or other materials that violate Oculus Terms.
+
+THE IMAGES ARE PROVIDED TO YOU ON AN "AS IS" BASIS AND YOU ARE SOLELY
+RESPONSIBLE FOR YOUR USE OF THE IMAGES. OCULUS DISCLAIMS ALL WARRANTIES
+REGARDING THE IMAGES, INCLUDING WARRANTIES OF NON-INFRINGEMENT. OCULUS
+SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL OR PUNITIVE DAMAGES ARISING FROM OR RELATED TO YOUR USE OF
+THE IMAGES.
+
+For the avoidance of doubt, this license shall not apply to the Oculus
+name, trademark or service mark, logo or design.
+
+
+================================================================================
+3) Oculus Hand Models (skeletal hand meshes and pose animations)
+   © Meta Platforms Technologies, LLC and its affiliates. All rights reserved.
+   Distributed via:
+     https://developers.meta.com/horizon/downloads/package/oculus-hand-models/
+   License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+================================================================================
+
+Copyright (c) Meta Platforms Technologies, LLC and its affiliates.
+All rights reserved.
+
+Licensed under the Creative Commons Attribution 4.0 International License
+(the "License"). The text of this license may be found at:
+
+    https://creativecommons.org/licenses/by/4.0/
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
+License for the specific language governing permissions and limitations
+under the License.
+
+Modifications in OmniStep: project-specific prefabs, materials, and
+additional animation clips (Vive trigger / trackpad poses) were created.
+The FBX meshes and the original pose animations (default, fist, pinch)
+are used unmodified.
+
+
+================================================================================
+Trademarks
+================================================================================
+
+"Vive" is a trademark of HTC Corporation.
+"SteamVR" and "OpenVR" are trademarks of Valve Corporation.
+"Meta", "Oculus", "Quest", and "Touch" are trademarks of Meta Platforms, Inc.
+"KAT VR" and "KAT Walk" are trademarks of KAT VR.
+
+OmniStep is an independent academic project and is not affiliated with or
+endorsed by any of the parties listed above.
