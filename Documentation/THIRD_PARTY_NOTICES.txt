@@ -2,9 +2,10 @@ OmniStep — Third-Party Notices
 ==============================
 
 This file lists the third-party assets redistributed with the OmniStep
-binary that require their license text to accompany the distribution.
+source repository and/or binary release that require their license text
+or attribution notice to accompany the distribution.
 A full list of third-party materials (including those whose license does
-not require this notice) is given in the project README.
+not require this notice) is provided in the developer documentation.
 
 
 ================================================================================
